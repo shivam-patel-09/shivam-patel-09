@@ -1,11 +1,14 @@
 ### <div align="center">I'm Shivam, a greedy🤤 person for knowledge, particularly in computers.🖥️</div>  
 
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f0c0ee21-c33b-4da2-9b18-d08d47f00967" alt="cat-image" width="400px">
+</p>
+<div>
   
 - 🎆 You can check my work [here](https://github.com/shivam-patel-09?tab=repositories).  
   
 
-- 🌱 At the moment, I'm learning Web Technologies   
+- 🌱 At the moment, I'm learning Web Technologies.   
 
 
 - ⚡ fun fact :- I am a real person LOL and do not require CAPTCHA.   
@@ -13,6 +16,7 @@
 
 - ❓ Ask me about anything related to Web Technologies.
 
+</div>
   
 <br/>  
 
