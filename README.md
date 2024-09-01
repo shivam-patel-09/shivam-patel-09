@@ -1,6 +1,6 @@
 ### <div align="center">I'm Shivam, a greedy🤤 person for knowledge, particularly in computers.🖥️</div>  
 
-![cat-1--unscreen](https://github.com/Priyank-Bhagat/priyank-bhagat/assets/115228605/d6fe3e9a-dc29-47db-acff-0cf7343d7498)
+
   
 - 🎆 You can check my work [here](https://github.com/shivam-patel-09?tab=repositories).  
   
@@ -43,14 +43,14 @@
 <div align="center">
   
 
-| <a href="https://github.com/priyank-bhagat/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priyank-bhagat&&show_icons=true&theme=tokyonight" alt="Priyank's github stats" /></a> | <a href="https://github.com/priyank-bhagat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyank-bhagat&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/shivam-patel-09/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shivam-patel-09&&show_icons=true&theme=tokyonight" alt="Priyank's github stats" /></a> | <a href="https://github.com/shivam-patel-09/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-patel-09&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 
-|| <a href="https://github-readme-streak-stats.herokuapp.com/?user=priyank-bhagat&theme=tokyonight"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyank-bhagat&theme=tokyonight" /></a> ||
+|| <a href="https://github-readme-streak-stats.herokuapp.com/?user=shivam-patel-09&theme=tokyonight"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-patel-09&theme=tokyonight" /></a> ||
 
 
 </div>
 <div align="center">
-| <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyank-bhagat&theme=tokyonight"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyank-bhagat&theme=tokyonight" /></a> |
+| <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-patel-09&theme=tokyonight"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-patel-09&theme=tokyonight" /></a> |
 
 
 
@@ -61,13 +61,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/priyank-bhagat" target="_blank">
+<a href="https://github.com/shivam-patel-09" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/willbe" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/priyank-bhagat-flutterdev" target="_blank">
+<a href="https://www.linkedin.com/in/shivam-patel-09-flutterdev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/willbe" target="_blank">
@@ -77,7 +77,7 @@
 
 <br />
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=priyank-bhagat&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=shivam-patel-09&&style=flat-square" align="center" />
 </div>  
 
 
