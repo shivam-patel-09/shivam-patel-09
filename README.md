@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://guthib.com">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,bootstrap,java,spring,visualstudio,postman,mongodb,git,github,gitlab,bash,powershell"  width="100%" height="150"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,bootstrap,java,spring,eclipse,idea,visualstudio,postman,mongodb,git,github,gitlab,bash,powershell"  width="100%" height="150"/>
   </a>
 </p>
 
