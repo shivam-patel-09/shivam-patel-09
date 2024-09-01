@@ -1,25 +1,89 @@
-<h1 align="center">Hi 👋, I'm Shivam Patel</h1>
-<h3 align="center">A passionate frontend developer</h3>
+### <div align="center">I'm Priyank, a greedy🤤 person for knowledge, particularly in computers.🖥️</div>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-patel-09&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-patel-09" /> </p>
+![cat-1--unscreen](https://github.com/Priyank-Bhagat/priyank-bhagat/assets/115228605/d6fe3e9a-dc29-47db-acff-0cf7343d7498)
+  
+- 🎆 You can check my work [here](https://github.com/shivam-patel-09?tab=repositories).  
+  
 
-- 🌱 I’m currently learning **Html, Css, JavaScript, Web Crawling**
+- 🌱 At the moment, I'm learning Web Technologies   
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivam-patel-09?tab=repositories](https://github.com/shivam-patel-09?tab=repositories)
 
-- 💬 Ask me about **Web Technologies**
+- ⚡ fun fact :- I am a real person LOL and do not require CAPTCHA.   
+  
 
-- 📫 How to reach me **pshivam1908@gmail.com**
+- ❓ Ask me about anything related to Web Technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tempuser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tempuser" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tempuser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tempuser" height="30" width="40" /></a>
+  
+<br/>  
+
+
+## My Skill Set  
+<div align="center">
+<table><tr><td valign="top" width="100%">
+
+
+<p align="center">
+  <a href="https://guthib.com">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,bootstrap,java,spring,visualstudio,postman,mongodb,git,github,gitlab,bash,powershell"  width="100%" height="150"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-patel-09&show_icons=true&locale=en" alt="shivam-patel-09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-patel-09&" alt="shivam-patel-09" /></p>
+</td></tr></table>  
+
+<br/>  
+
+</div>
+
+## Github Stats  
+
+
+
+<div align="center">
+  
+
+| <a href="https://github.com/priyank-bhagat/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priyank-bhagat&&show_icons=true&theme=tokyonight" alt="Priyank's github stats" /></a> | <a href="https://github.com/priyank-bhagat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyank-bhagat&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+
+|| <a href="https://github-readme-streak-stats.herokuapp.com/?user=priyank-bhagat&theme=tokyonight"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyank-bhagat&theme=tokyonight" /></a> ||
+
+
+</div>
+<div align="center">
+| <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyank-bhagat&theme=tokyonight"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyank-bhagat&theme=tokyonight" /></a> |
+
+
+
+
+</div>
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/priyank-bhagat" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/willbe" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/priyank-bhagat-flutterdev" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/willbe" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+<br />
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=priyank-bhagat&&style=flat-square" align="center" />
+</div>  
+
+
+<div align="center">
+  <br/>
+  <p><p/>
+<p><b>Have a GREAT day!</b><p/>
+<img src="https://user-images.githubusercontent.com/115228605/209328912-1aea90da-06b9-449e-b319-09561eeaca01.gif" alt="Smiley" align="center" style="width: 50%"  />
+</div>
